@@ -52,22 +52,16 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umitsahan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umitsahan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=umit-sahan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umit-sahan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" width="38%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umitsahan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umit-sahan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=umitsahan&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
-
----
 
 ⭐️ From [umitsahan](https://github.com/umitsahan)
