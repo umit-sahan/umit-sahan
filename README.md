@@ -1,57 +1,73 @@
 <h1 align="center">Hi 👋, I'm Ümit Şahan</h1>
-<h3 align="center">A Passionate Back-End Developer from Turkey</h3>
+<h3 align="center">Back-End Developer | Java & Spring Boot Enthusiast | Türkiye</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=umitsahan&label=Profile%20views&color=0e75b6&style=flat" alt="umitsahan" />
-</p>
-
----
-
-🔧 I'm a backend developer with a strong foundation in Java and Spring Boot. I enjoy building scalable microservices, working with cloud technologies, and continuously learning modern tools and practices.
-
-🎯 I have hands-on experience in:
-
-- Building enterprise-level applications using **Spring Boot**, **Kafka**, **Docker**, and **Kubernetes**  
-- Working with databases like **PostgreSQL**, **MySQL**, **MongoDB**, and **Oracle**  
-- Writing clean and tested code with **JUnit**, **REST APIs**, and **CI/CD pipelines**  
-- DevOps practices and tools such as **Git**, **Bitbucket**, **Jira**, and **Confluence**  
-
----
-
-### 🚀 Tech Stack & Tools
-
-<p align="left">
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/></a>
-  <a href="https://kafka.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
-  <a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-</p>
-
----
-
-### 📫 Connect with Me
-
-<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=umitsahan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <a href="https://linkedin.com/in/umitsahan" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umitsahan" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-umitsahan-blue?logo=linkedin&style=flat" alt="LinkedIn" />
   </a>
 </p>
 
 ---
 
+### 🚀 About Me
+
+- 🔭 Currently building scalable **microservices** with **Spring Boot** and **Apache Kafka**
+- ☁️ Hands-on experience with **Docker**, **Kubernetes**, and **Azure** cloud
+- 🗄️ Worked with relational and NoSQL databases: **PostgreSQL**, **MySQL**, **MongoDB**, **Oracle**
+- ✅ Fan of clean code, **JUnit** testing, and **CI/CD** pipelines
+- 🤝 Open to collaboration on backend & cloud‑native projects
+- 📫 Reach me on [LinkedIn](https://linkedin.com/in/umitsahan)
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages & Frameworks**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+**DevOps & Cloud**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Tools & Practices**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+
+---
+
 ### 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umitsahan&layout=compact&langs_count=8&theme=tokyonight"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=umitsahan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umitsahan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" width="38%" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=umitsahan&show_icons=true&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umitsahan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=umitsahan&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+</p>
+
+---
+
+⭐️ From [umitsahan](https://github.com/umitsahan)
