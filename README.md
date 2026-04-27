@@ -2,7 +2,7 @@
 <h3 align="center">Back-End Developer | Java & Spring Boot Enthusiast | Türkiye</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=umitsahan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=umit-sahan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <a href="https://linkedin.com/in/umitsahan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-umitsahan-blue?logo=linkedin&style=flat" alt="LinkedIn" />
   </a>
@@ -62,6 +62,12 @@
 
 ---
 
+### 🏆 GitHub Trophies
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=umit-sahan&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+</p>
+
+---
 
 ⭐️ From [umit-sahan](https://github.com/umit-sahan)
